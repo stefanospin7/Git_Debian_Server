@@ -80,6 +80,17 @@ git remote add origin git@192.***.***.***:/srv/git/newRepo.git
 
 ### Now you can use all the git commands, I suggest to use the GitHub cheat sheet:
 
+![Git cheat sheet_page-0001](https://user-images.githubusercontent.com/94653280/187962327-ceccddf8-b108-4821-9116-e605997d0728.jpg)
+
+![Git cheat sheet_page-0002](https://user-images.githubusercontent.com/94653280/187962362-aa3a9476-1c95-4c95-9b12-13b7b607918d.jpg)
+
+
+
+
+
+
+##Download Cheat Sheet:
+
 https://github.com/stefanospin7/Git_Debian_Server/blob/main/Git%20cheat%20sheet.pdf
 
 
