@@ -3,7 +3,9 @@
 ## On your server:
 
 
-### Install git
+### Install git and create a git user
+
+sudo apt-get install git-all 
 
 sudo adduser git
 
