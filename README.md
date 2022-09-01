@@ -18,6 +18,8 @@ touch .ssh/authorized_keys && chmod 600 .ssh/authorized_keys
 
 ## On personal machine:
 
+
+
 ### Generate an ssh key:
 
 ssh-keygen -b 4096
@@ -30,6 +32,8 @@ cat .ssh/id_rsa.pub
 
 
 nano .ssh/authorized_keys
+
+
 
 ### (Now you should log into git user with ssh without writing the password)
 
@@ -47,6 +51,8 @@ mkdir newRepo.git
 cd mkdir newRepo.git
 
 git init --bare
+
+
 
 
 ## On personal machine:
