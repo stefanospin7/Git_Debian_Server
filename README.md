@@ -70,10 +70,6 @@ git commit -m 'my first commit'
 git remote add origin git@192.***.***.***:/srv/git/newRepo.git
 
 
-### Now you can see your git log from the server:
-
-git log
+### Now you can use all the git commands, I suggest to use the GitHub cheat sheet:
 
 
-(use "git add <file>..." to update what will be committed)
-(use "git restore <file>..." to discard changes in working directory)
